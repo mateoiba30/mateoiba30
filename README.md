@@ -13,14 +13,20 @@
 <a href="mailto:mateoiba30@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
-## Languages
 
-<br>   
-  <img src=https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white/>
-  <img src=https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white/>
-  <img src=https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black/>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Some Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,c,sqlite,prisma,mysql,vscode,arduino,linux,github,git,ts,js,css,html,nextjs,nodejs,react,tailwind,autocad,sketchup&perline=14" />
+  </a>
+</p>
 
-<br>
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>

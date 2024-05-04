@@ -6,7 +6,7 @@
 
 ## Contact info
 
-<a href="linkedin.com/in/mateo-agustín-ibañez-gutkin-84431526a" target="_blank">
+<a href="https://linkedin.com/in/mateo-agustín-ibañez-gutkin-84431526a" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  mateo_ibanez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 

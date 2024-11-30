@@ -38,8 +38,8 @@
 
   ### Learning:
   | SparQL | Docker | Tensorflow |
-  |----------|----------|----------|----------|
-  | **SparQL** | <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="55" height="55"/> |
+  |----------|----------|----------|
+  | **SparQL** | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="55" height="55"/> |
 
 
 </p>

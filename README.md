@@ -37,9 +37,9 @@
   | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="55" height="55"/> |
 
   ### Learning:
-  | Conda | WireShark | Nmap | OpenGL| CMake |
-  |----------|----------|----------|----------|-|
-  |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|**Wire**shark| **nmap** | <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="opengl" alt="opengl" width="55" height="55"/>
+  | SparQL | Docker | Tensorflow |
+  |----------|----------|----------|----------|
+  | **SparQL** | <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg](https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="55" height="55"/> |
 
 
 </p>

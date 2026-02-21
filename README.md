@@ -37,12 +37,14 @@
 <br>
 
 <div align="center">
-
-  <a href="https://github.com/mateoiba30/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateoiba30&langs_count=20&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <a href="https://github.com/mateoiba30">
+    <img src="https://github-readme-stats.vercel.app/api?username=mateoiba30&show_icons=true&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400" alt="GitHub Stats" />
   </a>
-  <a align="center" height="100px" ><img src="https://github-readme-stats.vercel.app/api?username=mateoiba30&show_icons=true&theme=dark&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mateoiba30 :: Profile Stats"  /></a>
-  
+  <a href="https://github.com/mateoiba30">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateoiba30&langs_count=10&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="355" alt="Top Languages" />
+  </a>
+</div>
+
   <br>
   <br>
   <br>

@@ -17,9 +17,9 @@
 <p align="center">
   
 ### Main:
-| SpaCy | Git | Maths | Python | SQLite |
-|------|------|-------|--------|-----|
-| **SpaCy** | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="55" height="55"/> | **Maths** | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> |
+| JavaScript | Supabase | Redis | SpaCy | Git | Maths | Python | SQLite |
+|------|-------|--------|-------|------|-------|--------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="55" hegiht="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="supabase" alt="supabase" width="55" hegiht="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="55" hegiht="55"/> | **SpaCy** | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="55" height="55"/> | **Maths** | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/> |
 
 ### Intermediate:
 | Problem Solving | C++ | Java | Bash | NextJS | Sklearn |

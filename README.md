@@ -36,10 +36,22 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+
+<!-- Copiá todo esto en tu README.md de perfil -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateoiba30&show_icons=true&theme=dark" width="400" alt="" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateoiba30&layout=compact&theme=dark" width="355" alt="" />
+
+  ![GitHub followers](https://img.shields.io/github/followers/mateoiba30?style=for-the-badge&labelColor=161b22&color=238636)
+  ![GitHub User's stars](https://img.shields.io/github/stars/mateoiba30?affiliations=OWNER&style=for-the-badge&labelColor=161b22&color=d29922)
+
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateoiba30&theme=github-dark&hide_border=true&area=true" width="100%" alt="activity" />
+
+  <br />
+
 </div>
+
 
   <br>
   <br>
